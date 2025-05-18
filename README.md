@@ -1,4 +1,4 @@
-#Image-Super-Resolution
+**Image-Super-Resolution**
 
 Image super-resolution is the technique used to convert low-resolution images to high-resolution
 images. This is particularly useful in medical fields, for instance, in identifying tumors within the
